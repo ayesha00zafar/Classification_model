@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pt
+*.npy
+dataset/Bits2Bites/
+cache_features.py
+*.log
+.vscode/
+.env

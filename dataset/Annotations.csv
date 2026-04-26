@@ -1,0 +1,201 @@
+Patient,Right Class,Left Class,Anterior Bite,Transversal Bite,Median Lines
+1,Class I,Class I,Normal,Normal,Deviated
+2,Class II Edge to Edge,Class II Edge to Edge,Deep Bite,Scissor Bite 17-27,Deviated
+3,Class II Edge to Edge,Class II Edge to Edge,Normal,Normal,Centered
+4,Class II Full,Class II Edge to Edge,Open Bite,Cross Bite 23-24-25-26,Deviated
+5,Class I,Class I,Normal,Cross Bite 15-16,Deviated
+6,Class I,Class II Full,Deep Bite,Cross Bite 25-26-27,Deviated
+7,Class II Full,Class II Full,Open Bite,Normal,Centered
+8,Class I,Class I,Open Bite,Cross Bite 26-27-28,Centered
+9,Class III,Class III,Open Bite,Cross Bite 24-25,Deviated
+10,Class II Edge to Edge,Class II Edge to Edge,Deep Bite,Normal,Centered
+11,Class II Full,Class I,Deep Bite,Normal,Deviated
+12,Class II Edge to Edge,Class II Edge to Edge,Normal,Normal,Centered
+13,Class I,Class I,Open Bite,Cross Bite 16-17,Centered
+14,Class III,Class III,Inverted Bite,Cross Bite 17-16-15-14-13-12-11-21-22-23-24-25-26-27,Deviated
+15,Class II Edge to Edge,Class I,Deep Bite,Normal,Centered
+16,Class I,Class I,Open Bite,Cross Bite 16-12-24-25-26,Deviated
+17,Class I,Class I,Normal,Cross Bite 16-15-14-13,Deviated
+18,Class II Edge to Edge,Class II Full,Deep Bite,Normal,Centered
+19,Class II Edge to Edge,Class II Edge to Edge,Open Bite,Normal,Centered
+20,Class I,Class II Full,Open Bite,Normal,Deviated
+21,Class II Edge to Edge,Class I,Deep Bite,Cross Bite 13-14-17,Deviated
+22,Class II Full,Class II Edge to Edge,Deep Bite,Normal,Centered
+23,Class I,Class I,Normal,Cross Bite 25-26,Centered
+24,Class II Edge to Edge,Class I,Normal,Cross Bite 12-22-25-26-27,Centered
+25,Class III,Class III,Normal,Normal,Centered
+26,Class III,Class I,Normal,Normal,Centered
+27,Class III,Class III,Inverted Bite,Cross Bite 16-15-14-13-12-11-21-22,Deviated
+28,Class I,Class I,Open Bite,Normal,Centered
+29,Class III,Class III,Open Bite,Cross Bite 16-15-14-12-11-21-22-25,Deviated
+30,Class II Edge to Edge,Class II Edge to Edge,Normal,Cross Bite 25,Deviated
+31,Class II Edge to Edge,Class II Full,Deep Bite,Normal,Deviated
+32,Class I,Class III,Open Bite,Cross Bite 16-15-12-22-24-25,Deviated
+33,Class I,Class I,Open Bite,Normal,Deviated
+34,Class I,Class III,Normal,Cross Bite 14-23,Deviated
+35,Class I,Class I,Normal,Normal,Centered
+36,Class II Edge to Edge,Class II Edge to Edge,Deep Bite,Scissor Bite 17-27,Deviated
+37,Class III,Class I,Normal,Normal,Deviated
+38,Class III,Class III,Normal,Cross Bite 16-15-14-22-23-24-25-26,Centered
+39,Class II Full,Class I,Deep Bite,Normal,Deviated
+40,Class II Edge to Edge,Class I,Deep Bite,Cross Bite 16-15-24-25,Deviated
+41,Class II Full,Class II Full,Deep Bite,Normal,Deviated
+42,Class II Edge to Edge,Class II Full,Normal,Normal,Deviated
+43,Class III,Class III,Inverted Bite,Normal,Deviated
+44,Class II Edge to Edge,Class II Edge to Edge,Open Bite,Normal,Deviated
+45,Class I,Class I,Open Bite,Cross Bite 15-24-25,Centered
+46,Class I,Class I,Normal,Cross Bite 17-16-15-14,Deviated
+47,Class I,Class III,Open Bite,Cross Bite 17,Deviated
+48,Class II Edge to Edge,Class III,Open Bite,Cross Bite 17-16-15-24-25-26-27,Deviated
+49,Class I,Class II Edge to Edge,Normal,Normal,Deviated
+50,Class I,Class I,Deep Bite,Normal,Centered
+51,Class II Full,Class II Edge to Edge,Deep Bite,Normal,Deviated
+52,Class I,Class I,Normal,Scissor Bite 27,Centered
+53,Class I,Class II Edge to Edge,Normal,Cross Bite 22,Centered
+54,Class I,Class I,Normal,Normal,Deviated
+55,Class I,Class I,Normal,Cross Bite 24,Centered
+56,Class I,Class I,Deep Bite,Normal,Centered
+57,Class III,Class II Edge to Edge,Open Bite,Cross Bite 24,Deviated
+58,Class I,Class I,Deep Bite,Normal,Centered
+59,Class I,Class II Edge to Edge,Deep Bite,Normal,Deviated
+60,Class II Edge to Edge,Class II Edge to Edge,Deep Bite,Normal,Centered
+61,Class II Full,Class I,Open Bite,Cross Bite 15-24,Deviated
+62,Class I,Class I,Open Bite,Normal,Centered
+63,Class II Edge to Edge,Class II Edge to Edge,Deep Bite,Normal,Centered
+64,Class II Edge to Edge,Class II Edge to Edge,Deep Bite,Normal,Centered
+65,Class I,Class II Edge to Edge,Deep Bite,Normal,Deviated
+66,Class I,Class I,Open Bite,Cross Bite 17-27,Deviated
+67,Class II Edge to Edge,Class II Full,Normal,Normal,Deviated
+68,Class I,Class II Edge to Edge,Normal,Normal,Deviated
+69,Class II Edge to Edge,Class II Edge to Edge,Deep Bite,Normal,Deviated
+70,Class II Edge to Edge,Class II Edge to Edge,Deep Bite,Scissor Bite 25,Deviated
+71,Class II Full,Class II Edge to Edge,Deep Bite,Normal,Centered
+72,Class II Edge to Edge,Class II Full,Open Bite,Normal,Centered
+73,Class I,Class II Edge to Edge,Normal,Normal,Centered
+74,Class I,Class I,Normal,Normal,Deviated
+75,Class I,Class II Full,Deep Bite,Cross Bite 26,Deviated
+76,Class III,Class III,Open Bite,Cross Bite 15-14-13-12-11-21-22-23-24-25,Deviated
+77,Class II Edge to Edge,Class II Edge to Edge,Normal,Normal,Deviated
+78,Class II Full,Class II Full,Normal,Normal,Deviated
+79,Class I,Class I,Deep Bite,Normal,Centered
+80,Class I,Class I,Open Bite,Cross Bite 18,Deviated
+81,Class II Full,Class II Full,Deep Bite,Normal,Centered
+82,Class II Edge to Edge,Class II Edge to Edge,Deep Bite,Normal,Centered
+83,Class I,Class I,Deep Bite,Normal,Deviated
+84,Class II Edge to Edge,Class II Edge to Edge,Deep Bite,Normal,Centered
+85,Class I,Class I,Open Bite,Cross Bite 18-28,Deviated
+86,Class I,Class I,Deep Bite,Normal,Centered
+87,Class II Edge to Edge,Class II Full,Open Bite,Normal,Centered
+88,Class II Full,Class II Edge to Edge,Deep Bite,Normal,Deviated
+89,Class I,Class I,Normal,Normal,Centered
+90,Class II Edge to Edge,Class I,Deep Bite,Normal,Deviated
+91,Class I,Class I,Normal,Cross Bite 18,Centered
+92,Class I,Class I,Normal,Normal,Centered
+93,Class I,Class I,Normal,Normal,Deviated
+94,Class I,Class I,Open Bite,Normal,Centered
+95,Class I,Class I,Deep Bite,Normal,Centered
+96,Class I,Class I,Deep Bite,Normal,Deviated
+97,Class I,Class I,Normal,Normal,Deviated
+98,Class I,Class II Edge to Edge,Normal,Normal,Centered
+99,Class I,Class I,Deep Bite,Normal,Centered
+100,Class I,Class I,Normal,Normal,Deviated
+101,Class II Full,Class II Edge to Edge,Deep Bite,Normal,Deviated
+102,Class I,Class I,Deep Bite,Normal,Centered
+103,Class II Full,Class II Full,Deep Bite,Normal,Centered
+104,Class I,Class I,Deep Bite,Normal,Centered
+105,Class I,Class I,Normal,Normal,Centered
+106,Class I,Class I,Normal,Normal,Deviated
+107,Class II Edge to Edge,Class II Edge to Edge,Deep Bite,Normal,Centered
+108,Class I,Class I,Normal,Cross Bite 15,Centered
+109,Class I,Class II Edge to Edge,Open Bite,Normal,Deviated
+110,Class I,Class I,Normal,Normal,Deviated
+111,Class I,Class I,Normal,Cross Bite 26,Centered
+112,Class I,Class II Full,Deep Bite,Normal,Deviated
+113,Class II Edge to Edge,Class II Edge to Edge,Open Bite,Normal,Deviated
+114,Class I,Class I,Normal,Normal,Centered
+115,Class II Edge to Edge,Class II Edge to Edge,Deep Bite,Normal,Centered
+116,Class I,Class I,Normal,Normal,Centered
+117,Class II Edge to Edge,Class II Edge to Edge,Open Bite,Normal,Deviated
+118,Class I,Class I,Normal,Normal,Deviated
+119,Class III,Class III,Open Bite,Cross Bite 13-12-11-21-22-24,Deviated
+120,Class II Edge to Edge,Class II Edge to Edge,Normal,Normal,Centered
+121,Class I,Class I,Normal,Normal,Centered
+122,Class II Full,Class I,Deep Bite,Normal,Deviated
+123,Class I,Class II Edge to Edge,Deep Bite,Normal,Centered
+124,Class II Edge to Edge,Class II Edge to Edge,Deep Bite,Normal,Deviated
+125,Class II Full,Class I,Deep Bite,Normal,Deviated
+126,Class I,Class I,Normal,Normal,Centered
+127,Class I,Class I,Normal,Normal,Centered
+128,Class II Edge to Edge,Class I,Normal,Cross Bite 16-17,Deviated
+129,Class II Full,Class II Edge to Edge,Deep Bite,Normal,Deviated
+130,Class I,Class I,Deep Bite,Normal,Deviated
+131,Class II Full,Class I,Normal,Normal,Deviated
+132,Class III,Class I,Normal,Normal,Deviated
+133,Class II Edge to Edge,Class I,Deep Bite,Normal,Centered
+134,Class I,Class II Edge to Edge,Deep Bite,Normal,Deviated
+135,Class II Full,Class II Full,Deep Bite,Normal,Deviated
+136,Class II Edge to Edge,Class II Edge to Edge,Open Bite,Normal,Deviated
+137,Class II Edge to Edge,Class I,Normal,Normal,Deviated
+138,Class II Full,Class I,Deep Bite,Normal,Deviated
+139,Class III,Class III,Open Bite,Normal,Centered
+140,Class II Edge to Edge,Class I,Normal,Normal,Centered
+141,Class II Full,Class II Full,Deep Bite,Cross Bite 18 / Scissor Bite 27,Deviated
+142,Class II Edge to Edge,Class II Edge to Edge,Normal,Normal,Deviated
+143,Class II Edge to Edge,Class II Edge to Edge,Normal,Normal,Centered
+144,Class I,Class III,Normal,Normal,Deviated
+145,Class I,Class I,Open Bite,Cross Bite 18-17-24-25-26-27-28,Centered
+146,Class II Edge to Edge,Class III,Deep Bite,Normal,Deviated
+147,Class II Full,Class I,Normal,Normal,Deviated
+148,Class I,Class I,Normal,Normal,Deviated
+149,Class I,Class I,Normal,Normal,Deviated
+150,Class I,Class I,Normal,Normal,Centered
+151,Class II Full,Class II Edge to Edge,Normal,Normal,Deviated
+152,Class II Full,Class III,Normal,Normal,Deviated
+153,Class II Edge to Edge,Class III,Normal,Normal,Deviated
+154,Class II Edge to Edge,Class II Edge to Edge,Normal,Normal,Centered
+155,Class I,Class III,Open Bite,Normal,Deviated
+156,Class II Edge to Edge,Class III,Deep Bite,Cross Bite 16-17,Deviated
+157,Class I,Class III,Open Bite,Normal,Deviated
+158,Class II Full,Class II Edge to Edge,Deep Bite,Normal,Centered
+159,Class II Full,Class II Full,Deep Bite,Normal,Centered
+160,Class III,Class III,Normal,Cross Bite 16,Deviated
+161,Class II Edge to Edge,Class II Full,Normal,Normal,Centered
+162,Class III,Class I,Open Bite,Normal,Deviated
+163,Unknown,Class III,Open Bite,Cross 15-24-26,Deviated
+164,Unknown,Class III,Open Bite,Cross 25,Deviated
+165,Class III,Unknown,Open Bite,Cross 16-15-14-13-12-11-21-22-23,Deviated
+166,Class I,Unknown,Normal,Cross 12,Deviated
+167,Class III,Class III,Inverted Bite,Cross 16-15-12-11-21-222,Centered
+168,Class I,Class II Edge to Edge,Normal,Normal,Centered
+169,Class I,Unknown,Normal,Normal,Deviated
+170,Class II Full,Unknown,Normal,Cross 24-25,Deviated
+171,Class III,Class I,Open Bite,Cross 16,Deviated
+172,Class II Edge to Edge,Class II Edge to Edge,Normal,Cross 22,Deviated
+173,Unknown,Class II Full,Open Bite,Normal,Deviated
+174,Class I,Class II Full,Normal,Cross 23,Deviated
+175,Class II Edge to Edge,Class II Full,Deep Bite,Cross 17,Deviated
+176,Unknown,Class II Full,Normal,Normal,Centered
+177,Class I,Class I,Normal,Normal,Deviated
+178,Unknown,Class II Edge to Edge,Deep Bite,Normal,Deviated
+179,Class I,Class I,Deep Bite,Normal,Deviated
+180,Class II Full,Class II Full,Normal,Normal,Deviated
+181,Class I,Class I,Normal,Normal,Centered
+182,Unknown,Class I,Deep Bite,Normal,Deviated
+183,Class I,Class II Full,Deep Bite,Cross 25,Deviated
+184,Class III,Class III,Open Bite,Cross 17-16-25-26,Deviated
+185,Class II Edge to Edge,Class II Edge to Edge,Deep Bite,Normal,Centered
+186,Class I,Class I,Deep Bite,Cross 26,Deviated
+187,Class I,Class III,Normal,Normal,Deviated
+188,Class II Full,Class II Full,Deep Bite,Normal,Deviated
+189,Class II Edge to Edge,Class II Full,Normal,Cross 17-16-26-27,Deviated
+190,Class I,Class I,Normal,Cross 27,Deviated
+191,Class I,Class II Full,Normal,Normal,Deviated
+192,Class II Full,Class II Edge to Edge,Deep Bite,Normal,Deviated
+193,Class III,Class I,Normal,Normal,Deviated
+194,Class II Edge to Edge,Unknown,Deep Bite,Normal,Centered
+195,Class I,Class I,Deep Bite,Normal,Centered
+196,Class I,Class I,Normal,Normal,Deviated
+197,Class II Full,Class I,Deep Bite,Normal,Deviated
+198,Class I,Class III,Deep Bite,Normal,Centered
+199,Class II Full,Class I,Deep Bite,Normal,Deviated
+200,Class I,Class I,Normal,Normal,Centered
